@@ -1,12 +1,12 @@
 # DIY Assembly Bootloader
-<h3>First, Make Sure that "nasm" assembler is installed on your computer</h3>
+<p>First, Make Sure that "nasm" assembler is installed on your computer, then assemble the "boot.asm" by "nasm"</p>
 <br>
 <h4>Run it on qemu i386 system: </h4>
 
 
 ```
 
-qemu-system-i386 
+qemu-system-i386 {assembled binary file from the boot.asm} 
 
 ```
 
