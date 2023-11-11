@@ -11,3 +11,5 @@ qemu-system-i386
 ```
 
 <img src="https://github.com/Egypt-Open-Source/Bootloader/blob/main/screenshoot.png">
+
+<footer>Created by @zoroxide</footer>
